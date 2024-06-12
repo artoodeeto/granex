@@ -520,7 +520,8 @@ button {
   float: left;
   background-image: url(../images/about-img2.jpg);
   height: auto;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   padding: 0px 0px 0px 0px;
 }
 
