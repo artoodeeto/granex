@@ -754,6 +754,10 @@ button {
   position: relative;
 }
 
+.container_main img {
+  max-height: 400px;
+}
+
 .container_main:hover .overlay {
   opacity: 1;
 }
@@ -810,11 +814,12 @@ i.fa.fa-link {
 }
 
 .project_main {
+  height: 90%;
   width: 100%;
   padding: 20px;
   background-color: #00ad00;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
   top: -2px;
   position: relative;
 }
