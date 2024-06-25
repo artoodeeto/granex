@@ -525,6 +525,16 @@ button {
   padding: 0px 0px 0px 0px;
 }
 
+.growth_img {
+  width: 100%;
+  float: left;
+  background-image: url(../images/sacom2.jpg);
+  height: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding: 0px 0px 0px 0px;
+}
+
 .video_bt {
   width: 100%;
   padding: 155px 0px;
